@@ -101,11 +101,3 @@ Add screenshots of the application in the `POS-Frontend/src/assets/images/` fold
 This project is for educational and demonstration purposes. Please review and update the license as needed for your use case.
 
 ---
-
-## Author
-
-- Your Name
-- [Your Contact/Portfolio]
-=======
-# Resturant-Management-System
->>>>>>> 838b5018f69a30b59afe14785736373a4b62c338
