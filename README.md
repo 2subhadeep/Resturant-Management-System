@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # POS Restaurant System
 
 This repository contains a full-stack Point of Sale (POS) system for restaurants, featuring a Node.js/Express backend and a modern React frontend. The system is designed to manage orders, tables, payments, and users efficiently, providing a seamless experience for both restaurant staff and customers.
